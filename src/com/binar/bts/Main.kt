@@ -29,8 +29,6 @@ class Main {
                     println("angka yang muncul adalah : $random")
                     println()
                 }
-                scorePemain++
-                scoreComputer++
             }
             println("Permainan selesai!")
             println("==================================")
